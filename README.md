@@ -1,2 +1,2 @@
 # CSHARP-MVC-ASPNET
-<iframe src="https://drive.google.com/file/d/1sNWMLVWy_leHaHe7U0YwB7ZViOhenjsG/preview" width="640" height="480"></iframe>
+<img src="https://drive.google.com/drive/u/2/folders/1ufMRky3vgSCjJFX363JRKxT37-pqRiMe" alt="img.png">
